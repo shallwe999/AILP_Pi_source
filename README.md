@@ -16,7 +16,10 @@
 
 - - - - - - -  
 ### 工程简介
-- 主文件为`AILP_main.py`，使用`python3 AILP_main.py`命令运行。
+- 主文件为`AILP_main.py`，使用以下命令运行。  
+    ```  
+    python AILP_main.py  
+    ```  
 - 工程会在三个关键文件的函数中循环执行任务。其它文件只是一些子函数。循环过程如下。
     - 1. `hardware_func.py`主要是控制与单片机的相关硬件接口。
     - 2. `wav_func.py`主要是处理麦克风的声音。
@@ -31,4 +34,4 @@
 
 - - - - - - -  
 ### LICENSE
-- GPLv3.0
+- [Apache License 2.0](./LICENSE)  
