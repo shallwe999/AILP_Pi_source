@@ -19,9 +19,9 @@ import memo
 
 class Ai():
     def __init__(self):
-        self.APP_ID = '11218446'
-        self.API_KEY = 'yzbzVOZyp7rEzlGN1E5DdVGV'
-        self.SECRET_KEY = 'NPS3TMb3WE0dqHd1ZKBuqK8bKG3KXRYZ'  #20180510
+        self.APP_ID = '??????'  #省去API信息
+        self.API_KEY = '??????'  #省去API信息
+        self.SECRET_KEY = '??????'  #省去API信息
         self.filePath = "input_sound.wav"
         self.result = []
         self.success = False
